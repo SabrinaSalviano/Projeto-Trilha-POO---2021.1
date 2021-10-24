@@ -7,4 +7,4 @@ O projeto trata sobre um sistema básico de uma livraria, interação entre usu�
 
 Grata pela atenção!!! 
 
-*/ Testa aí e me diz o que achou ;) */
+Testa aí e me diz o que achou ;) 
